@@ -1,4 +1,4 @@
-# StreamLit Applications
+# StreamLit Applications 
 * * *
 * * *
 #### Application 1: Stock Price Visualizations using StreamLit and YFinance.
